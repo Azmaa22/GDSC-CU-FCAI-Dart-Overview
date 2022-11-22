@@ -1,0 +1,44 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/it/.pub-cache/hosted/pub.dartlang.org/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/it/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/it/.pub-cache/hosted/pub.dartlang.org/js-0.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/it/.pub-cache/hosted/pub.dartlang.org/meta-1.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/it/.pub-cache/hosted/pub.dartlang.org/path-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "main",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2022-11-22T13:30:43.466452Z",
+  "generator": "pub",
+  "generatorVersion": "2.17.3"
+}
